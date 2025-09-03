@@ -32,8 +32,8 @@ Aplikasi web berbasis Laravel untuk mengelompokkan data (unsupervised clustering
 
 ### 1) Clone repo
 ```bash
-git clone <repo-url> clientQnSI2020
-cd clientQnSI2020
+git clone <repo-url> SIGEMA
+cd SIGEMA
 ```
 
 ### 2) Instal dependensi
@@ -45,7 +45,7 @@ composer install
 - Duplikasi `.env.example` menjadi `.env`
 - Atur koneksi database:
 ```env
-APP_NAME=ClientQnSI
+APP_NAME=SIGEMA
 APP_ENV=local
 APP_KEY=
 APP_URL=http://localhost
